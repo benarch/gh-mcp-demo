@@ -1,0 +1,14 @@
+# Copy this file to terraform.tfvars and customize the values as needed
+
+resource_group_name   = "ben-ghmcp-demo-rg"
+storage_account_name  = "benstgmcpdemo"
+location              = "eastus2"
+storage_account_sku   = "LRS"
+
+tags = {
+  Environment = "dev"
+  Project     = "gh-mcp-demo"
+  Owner       = "ben"
+  ManagedBy   = "terraform"
+  CreatedBy   = "terraform"
+}
