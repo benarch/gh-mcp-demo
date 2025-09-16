@@ -136,8 +136,8 @@ By the end of this demonstration, participants will have:
 - Implemented a professional Git workflow with pull requests
 - Deployed and managed cloud infrastructure using Infrastructure as Code principles
 
+<mark>The Outcome of this demo exists in the "feat/storage" branch in this repository !!!</mark>
 
-<u>The Outcome of this demo exists in the "feat/storage" branch in this repository !!!</u>
 ---
 
 **Event**: GitHub Connect 2025  
